@@ -40,7 +40,7 @@ export const CATALOGOS: Catalogo[] = [
     id: 'new-arrivals',
     titulo: 'Nuevos Ingresos Mayo',
     categoria: 'Novedades',
-    imagenPortada: 'https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=800&auto=format&fit=crop',
+    imagenPortada: '/webbiceladora.webp',
     linkPdf: '#',
   }
 ];
