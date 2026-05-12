@@ -63,7 +63,7 @@ const Hero = () => {
         <FadeIn direction="left" delay={0.3} className="relative hidden md:block">
           <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl scale-105 transform hover:scale-110 transition-transform duration-700">
             <img 
-              src="https://images.unsplash.com/photo-1591076482161-42ce6da69f67?q=80&w=1200&auto=format&fit=crop" 
+              src="/nombre-de-tu-imagen.png" 
               alt="Model wearing designer frames" 
               className="w-full h-[600px] object-cover"
             />
