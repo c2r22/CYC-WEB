@@ -17,23 +17,23 @@ export const CATALOGOS: Catalogo[] = [
   },
   {
     id: 'metal-trend',
-    titulo: 'Línea Metal Ultra-Light',
+    titulo: 'Línea Metal',
     categoria: 'Metal',
-    imagenPortada: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=800&auto=format&fit=crop',
+    imagenPortada: '/webmetal.webp',
     linkPdf: '#',
   },
   {
     id: 'tr90-sport',
-    titulo: 'Resistencia TR90 Flex',
+    titulo: 'TR90',
     categoria: 'TR90',
-    imagenPortada: 'https://images.unsplash.com/photo-1509100104048-6373f65cd45e?q=80&w=800&auto=format&fit=crop',
+    imagenPortada: '/webtr90.webp',
     linkPdf: '#',
   },
   {
     id: 'premium-gold',
     titulo: 'Edición Limitada Premium',
     categoria: 'Premium',
-    imagenPortada: 'https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?q=80&w=800&auto=format&fit=crop',
+    imagenPortada: '/webexclusivo.webp',
     linkPdf: '#',
   },
   {
