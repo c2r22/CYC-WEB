@@ -12,7 +12,7 @@ export const CATALOGOS: Catalogo[] = [
     id: 'acetato-2024',
     titulo: 'Colección Acetato Classic',
     categoria: 'Acetato',
-    imagenPortada: 'https://images.unsplash.com/photo-1574258495973-f010dfbb5371?q=80&w=800&auto=format&fit=crop',
+    imagenPortada: '/webacetato.webp',
     linkPdf: '#',
   },
   {
